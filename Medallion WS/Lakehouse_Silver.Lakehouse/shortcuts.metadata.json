@@ -6,8 +6,9 @@
       "type": "OneLake",
       "oneLake": {
         "path": "Tables/dbo/t3_dev",
-        "itemId": "3ace3676-f9b1-4423-82b6-ac293f9504a4",
-        "workspaceId": "cc9468fb-af0f-45e6-9b77-53231caa838d"
+        "itemId": "ad5f30f9-5d23-a650-48a5-f76f90496dd7",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "artifactType": "Lakehouse"
       }
     }
   },
@@ -18,8 +19,9 @@
       "type": "OneLake",
       "oneLake": {
         "path": "Tables/dbo/t2",
-        "itemId": "3ace3676-f9b1-4423-82b6-ac293f9504a4",
-        "workspaceId": "cc9468fb-af0f-45e6-9b77-53231caa838d"
+        "itemId": "ad5f30f9-5d23-a650-48a5-f76f90496dd7",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "artifactType": "Lakehouse"
       }
     }
   }
