@@ -6,9 +6,7 @@
       "type": "OneLake",
       "oneLake": {
         "path": "Tables/dbo/t3_dev",
-        "itemId": "ad5f30f9-5d23-a650-48a5-f76f90496dd7",
-        "workspaceId": "00000000-0000-0000-0000-000000000000",
-        "artifactType": "Lakehouse"
+        "itemReference": "$(/**/MyVarLib/lakehouse_bronze_item)"
       }
     }
   },
