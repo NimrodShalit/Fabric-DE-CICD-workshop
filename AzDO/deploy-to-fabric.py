@@ -40,6 +40,7 @@ target_workspace = FabricWorkspace(
     environment=environment,
     repository_directory=repository_directory,
     token_credential=token_credential,
+    item_type_in_scope=["VariableLibrary"],
 )
 
 # Publish all items defined in item_type_in_scope
