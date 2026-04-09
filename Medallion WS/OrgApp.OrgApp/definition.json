@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/orgapp/definition/orgAppDefinition/1.0.0/schema.json",
+  "settings": {},
+  "elements": [
+    {
+      "elementType": "item",
+      "elementId": "c1b46707-ef4b-4ca3-9a0a-98ad5919561b",
+      "itemType": "Report",
+      "itemLogicalId": "749d1818-b62a-b7e4-4bbd-d0615ce1c0e8",
+      "displayName": "MyReport"
+    },
+    {
+      "elementType": "section",
+      "elementId": "52776524-1a01-4cd0-b25e-3ea2ad3ac382",
+      "elements": [],
+      "displayName": "Section1"
+    },
+    {
+      "elementType": "item",
+      "elementId": "47456a12-6310-42e7-9b5f-562889f6b7e2",
+      "itemType": "SemanticModel",
+      "itemLogicalId": "32a8654c-a4c4-a0b4-4df5-92c436f143e5",
+      "displayName": "c1b46707-ef4b-4ca3-9a0a-98ad5919561b"
+    }
+  ]
+}
